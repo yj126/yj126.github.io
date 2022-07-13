@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+<h2 align="center">Hi 👋, I'm XiaoYu</h2>
 
-You can use the [editor on GitHub](https://github.com/yj126/yj126.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here are some ideas to get you started:
+- 📝 I regularly write articles on [blog](https://halo.xyifx.cn/).
+- 📫 You can email **1556818269@qq.com** to contact me.
+- 🏪 Welcome to my shop [pao de kuai](http://pdk.uvgg.com/).   
+- 🎬 Welcome to [little fish Cinema](http://pdk.uvgg.com/),though there are fewer films. 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yj126&repo=github-readme-stats&theme=vue)](https://github.com/yj126/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj126&show_icons=true&theme=vue)
+ <iframe src="https://chatroomonreplit.yj126.repl.co/room/@text"  width=100% height="200"></iframe>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yj126/yj126.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
